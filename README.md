@@ -62,6 +62,7 @@ Here are the visualization on a map and the cluster centers:
              
 
 To further analyze the data, we ignored the 0.136% of the invalid latitude and longitude, and found that cluster 5 covers almost 50% of all the pickups and dropoffs in these 12 clusters. The complete data is shown below: 
+** Note that we combine all the pickups and dropoffs, so the total percentage adds up to 200%
 
 ![63](https://user-images.githubusercontent.com/31937095/31420963-9cec5108-ae12-11e7-9dd3-2743ff857ca0.png)
 
