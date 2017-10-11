@@ -2,10 +2,6 @@
 analyze September 2015 green taxi data and come up with recommendations for the taxi companies 
 Credit to: Zhenyu Li, Katie Wu, Franco Lombardi
 
-
-“I declare that all work submitted for final exam in this report is our own work and does not involve plagiarism
-or collaboration outside of our own team. I also declare that we have not discussed the problems and
-solutions with anyone.”
 Task 1:
 
 The file contains 21 columns and 1,494,926 rows. The 21 different attributes are:
