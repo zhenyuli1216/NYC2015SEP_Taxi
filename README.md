@@ -130,21 +130,29 @@ Based on all analysis above, here are our recommendations:
 
 	
 2. ecause the average tips to airports are 70% more than normal, individual drivers might want to strategize a way to take advantage of these tip
+
 3. In order to be in the locations where most trips will occur, for every hour, we created 5 pickup clusters for the drivers, so they will not have to drive around randomly and look for passengers. Below shows clusters on a typical day at 10am: 
 
 ![82](https://user-images.githubusercontent.com/31937095/31421135-b0fc4f76-ae13-11e7-98b1-5c7d7dbee295.png)
 	
 If we do this for each hour, the drivers will better know which locations to go to during which hours in order to maximize business.
+
 4. Since greater than 75% of fare revenue comes from intrastate trips, it is a good idea to allocate taxis to only go intrastate, perhaps from street hail. 
+
 5. Take advantage of the number of street-hails and dispatch calls. 
 	From 8am to 10am in NYC, 56% of trips are made via street-hail 
 		Over half the taxis should be await calls while roaming popular street areas
 	From 10am to 5pm in both NJ and NYC, 57% of trips are made via dispatch  
 		Over half the taxis remained stationed and await dispatch calls.
+		
 6. More taxi drivers should be prepared to drive passengers within NYC in the very early hours (1am) and very late hours (after 10pm) on Saturdays. 
+
 7. Driving force should be largest on Saturdays. 
+
 8. During weekdays, drivers should be ready to drive workers within NYC and within NJ in their morning commutes. 
+
 9. Since 35% of trips occur during the rush hours of 7:00 - 9:00 am, the companies should make sure that there are ample drivers on the roads to satisfy this demand.
+
 10. We found that there are 4418 no charge cases with a total distance of 10,436.88 miles. Based on Sept. 2015 taxi rate ($2 initial + 0.30 per ⅕ miles), there is a $24,491.32 profit loss due to “No Charge”, which means that there is a roughly $200,000 profit loss a year. Therefore, an investigation on these no charge cases is needed. 
 
 
