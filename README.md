@@ -1,5 +1,6 @@
 # NYC2015SEP_Taxi
-analyze September 2015 green taxi data and come up with recommendations for the taxi companies 
+Analyze September 2015 green taxi data and come up with recommendations for the taxi companies 
+
 Credit to: Zhenyu Li, Katie Wu, Franco Lombardi
 
 Task 1:
