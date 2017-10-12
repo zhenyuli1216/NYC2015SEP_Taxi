@@ -1,6 +1,7 @@
 # NYC2015SEP_Taxi
 Analyze September 2015 green taxi data and come up with recommendations for the taxi companies 
 data source: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
 Credit to: Zhenyu Li, Katie Wu, Franco Lombardi
 
 Task 1:
