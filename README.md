@@ -1,4 +1,4 @@
-# NYC2015SEP_Taxi
+# Analysis for NYC taxi data 
 Analyze September 2015 green taxi data and come up with recommendations for the taxi companies 
 data source: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
